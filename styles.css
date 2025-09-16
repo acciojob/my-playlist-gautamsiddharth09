@@ -1,1 +1,61 @@
 /*  your css code here. If applicable */
+*{
+background-color: rgb(204, 204, 204);
+}
+a{
+	text-decoration-line:none;
+}
+
+.song_list{
+	height:150px;
+	width:600px;
+	background-color: rgb(255, 255, 255);
+	border: 2px solid black;
+	border-radius:8px;
+	margin-left:27px;
+	
+}
+ul,li,a{
+	background-color:rgb(255,255,255);
+	color:black;
+	border-radius:10px;
+	margin-top:8px;
+}
+
+.video_list{
+	background-color: rgb(255, 255, 255);
+	width:550px;
+	height:580px;
+	border:2px solid black;
+	border-radius:10px;
+	margin-left:50px
+	
+}
+.player_one{
+	width:500px;
+	margin-left:25px;
+	margin-top:25px;
+	
+}
+
+.player_two{
+	background-color:rgb(255, 255, 255);
+	margin-left:23px;
+	width:500px
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
